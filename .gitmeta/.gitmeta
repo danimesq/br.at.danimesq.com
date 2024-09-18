@@ -1,0 +1,47 @@
+commit QmZmy66a5ARAGbPTiBBnx8AJHJhns6jUQF7UYVZAq27nq7
+Branch: HEAD
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: 0a79d5a9022c4959c70cb58c61c0df518757c4cbada0beb78d89a0bcf109617d4c421c84bc4ac2041162da1a3f557c532754ec4ada79f5b93d4ba4378a77402201
+
+------------------------------
+
+Commit CID if including git's SHA1: QmTNaJ8ETkcPJK4DYkMpri9SHm5NcwxaHQuu3NdxhM8jhv
+Commit CID if containing only file hashes: QmU8m7fYfNCeGScER1cVWg1698XJRwXYdoyRTgwonbdT68
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /media/daniella/B/git/danimesq/Sites/subdomains/at/'br.at.danimesq.com'
+Remote Name: origin
+Remote URL: https://github.com/danimesq/br.at.danimesq.com.git
+
+------------------------------
+
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-09-17 14:50:47.5761316000 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-09-18 12:42:40.7487052000 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-09-18 12:42:40.7587052000 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-09-18 12:48:49.8200186000 -0300" '.folderstamp2'
+chown -h 1000:1000 '.folderstamp3'
+chmod 0664 '.folderstamp3'
+/usr/bin/touch -hcmd "2024-09-18 12:48:49.9080182000 -0300" '.folderstamp3'
+/usr/bin/touch -hcad "2024-09-18 12:50:04.2326785000 -0300" '.folderstamp3'
+chown -h 1000:1000 '.folderstamp4'
+chmod 0664 '.folderstamp4'
+/usr/bin/touch -hcmd "2024-09-18 12:50:04.4236776000 -0300" '.folderstamp4'
+/usr/bin/touch -hcad "2024-09-18 14:14:47.3548285000 -0300" '.folderstamp4'
+chown -h 1000:1000 '.well-known/atproto-did'
+chmod 0664 '.well-known/atproto-did'
+/usr/bin/touch -hcmd "2024-09-18 12:49:34.8638127000 -0300" '.well-known/atproto-did'
+/usr/bin/touch -hcad "2024-09-18 12:50:04.3196781000 -0300" '.well-known/atproto-did'
+chown -h 1000:1000 'index.html'
+chmod 0755 'index.html'
+/usr/bin/touch -hcmd "2024-09-18 14:07:02.7936517000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-09-18 14:07:49.4515040000 -0300" 'index.html'
+chown -h 1000:1000 'rmv-after-commit'
+chmod 0664 'rmv-after-commit'
+/usr/bin/touch -hcmd "2024-09-18 12:50:47.5664805000 -0300" 'rmv-after-commit'
+/usr/bin/touch -hcad "2024-09-18 14:14:47.3828320000 -0300" 'rmv-after-commit'
